@@ -1,6 +1,6 @@
 {
   "name": "preact-sandbox",
-  "short_name": "preact-sandbox",
+  "short_name": "preact",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
