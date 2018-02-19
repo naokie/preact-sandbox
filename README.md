@@ -1,5 +1,7 @@
 # {{ name }}
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/preact-sandbox.svg)](https://greenkeeper.io/)
+
 ## CLI Commands
 
 ``` bash
